@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on advance apps
 - 💬 Ask me about Flutter, Android, Mobile Application
 - 📫 How to reach me: contact me on
-  - ![image](https://user-images.githubusercontent.com/36805994/199775659-40bfd848-f904-4fe5-a507-cda393a342bb.png) @DexterTalha
+  - Youtube <a href="https://youtube.com/dextertalha" target="blank">@DexterTalha</a>
   - 📸 Instagram: https://www.instagram.com/dextertalha
   - 📝 LinkedIn: https://www.linkedin.com/in/mohammad-talha-542993103/
