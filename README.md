@@ -9,4 +9,4 @@
 - 📫 How to reach me: contact me on
   - Youtube <a href="https://youtube.com/dextertalha" target="_blank">@DexterTalha</a>
   - 📸 Instagram: <a href="https://www.instagram.com/dextertalha" target="_blank">DexterTalha</a>
-  - 📝 LinkedIn:  <a href="https://www.linkedin.com/in/mohammad-talha-542993103/" target="_blank">Mohammad Talha</a>
+  - 📝 LinkedIn:  <a href="https://www.linkedin.com/in/mohammad-talha-73878928a" target="_blank">Mohammad Talha</a>
