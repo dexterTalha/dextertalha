@@ -22,6 +22,7 @@
   <div align="left">      
     <img src="https://skillicons.dev/icons?i=flutter,android,angular,nodejs" />
   </div>
+  
 #### 🧵Database & Skills:
 
   <div align="left">      
